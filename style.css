@@ -1,0 +1,42 @@
+body {
+	font-family: Arial,Helvetica,sans-serif;
+}
+
+header {
+	padding:10px;
+	background-color:#4298f5;
+	font-size:2em;
+	font-weight:bold;
+	color:white;
+	letter-spacing:0.1em;
+}
+
+nav {
+	padding:10px;
+}
+
+nav a:link {
+	color:blue;
+	text-decoration:none;
+}
+
+nav a:hover {
+	color:hotpink;
+	text-decoration:underline;
+}
+
+nav a:visited {
+	color:green;
+}
+
+nav a:active {
+	color:orange;
+}
+
+img {
+	float:left;
+	margin: 5px 20px 5px; 
+}
+
+
+
